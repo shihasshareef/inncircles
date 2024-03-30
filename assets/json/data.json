@@ -1,0 +1,17 @@
+{"data":[{
+  "state": "Karnataka",
+  "city": [
+    "Bangalore",
+    "Mysore",
+    "Mangalore"
+  ]
+},
+  {
+    "state": "Kerala",
+    "city": [
+      "Kochi",
+      "Trivandrum",
+      "Calicut"
+    ]
+  }
+]}
